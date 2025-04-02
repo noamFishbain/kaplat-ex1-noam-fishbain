@@ -1,1 +1,3 @@
 this is file A :)
+this is a new line 
+this is another line
